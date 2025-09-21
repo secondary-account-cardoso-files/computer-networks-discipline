@@ -1,8 +1,8 @@
-# 💡 Redes de Computadores - Unitri
+# 💡 Redes de Computadores
 
 <div align="center">
 
-![Redes de Computadores](https://img.shields.io/badge/R%C3%B3edes%20de%20Computadores%20-Unitri-0078D4?style=for-the-badge&logo=azuredevops)
+![Redes de Computadores](https://img.shields.io/badge/Redes%20de%20Computadores-Unitri-0078D4?style=for-the-badge&logo=azuredevops)
 ![Disciplina](https://img.shields.io/badge/Disciplina-ADS-4B8BBE?style=for-the-badge&logo=github)
 ![Professora](https://img.shields.io/badge/Prof-Amanda%20Rosa%20Ferreira%20Jorge-FFCA28?style=for-the-badge&logo=linkedin)
 
